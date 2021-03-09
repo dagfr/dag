@@ -1,0 +1,20 @@
+{
+  "template": "https://github.com/escaped/cookiecutter-pypackage.git",
+  "commit": "201e2aa005db39b8b3ab854658dc5d8da0822e3a",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "author": "David",
+      "author_email": "davidgiraud@pm.me",
+      "github_username": "dagfr",
+      "project_name": "DAG",
+      "project_slug": "dag",
+      "short_description": "DAG First Projet",
+      "version": "0.1.0",
+      "line_length": "88",
+      "uses_django": "n",
+      "_template": "https://github.com/escaped/cookiecutter-pypackage.git"
+    }
+  },
+  "directory": null
+}
